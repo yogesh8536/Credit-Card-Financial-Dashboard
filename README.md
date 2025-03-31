@@ -34,9 +34,14 @@ o	Businessmen contribute the most revenue, followed by white-collar and self-emp
 o	Graduates account for the largest revenue share, followed by high school and post-graduate customers.
 
 **Conclusion & Recommendations**
+
 •	Target High-Value Customers: Focus on businessmen and high-income groups for premium card offers and tailored promotions.
+
 •	Encourage Digital Transactions: Since swipe transactions dominate, promotions for online transactions could help increase engagement in digital banking.
+
 •	Enhance Marketing Strategies: Based on customer demographics and spending behavior, personalized marketing campaigns can be developed for different segments.
+
 •	Optimize Card Offerings: Given that Blue cards generate the highest revenue, new product offerings and incentives can be aligned accordingly.
+
 •	Monitor Seasonal Trends: Revenue spikes should be analyzed further to optimize marketing and promotional campaigns during peak spending periods.
 
