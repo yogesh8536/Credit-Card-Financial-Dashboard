@@ -54,4 +54,10 @@ o	Graduates account for the largest revenue share, followed by high school and p
 •	Monitor Seasonal Trends: Revenue spikes should be analyzed further to optimize marketing and promotional campaigns during peak spending periods.
 
 Data: https://github.com/yogesh8536/Credit-Card-Financial-Dashboard/blob/main/cust_add.csv
+      https://github.com/yogesh8536/Credit-Card-Financial-Dashboard/blob/main/cc_add.csv
+
+Dashboard: https://github.com/yogesh8536/Credit-Card-Financial-Dashboard/blob/main/Credit%20card%20Financial%20dashboard.pbix
+
+Images: https://github.com/yogesh8536/Credit-Card-Financial-Dashboard/blob/main/Credit%20card_customer.JPG
+        https://github.com/yogesh8536/Credit-Card-Financial-Dashboard/blob/main/Credit%20card_trans.JPG
 
