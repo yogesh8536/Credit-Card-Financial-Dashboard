@@ -1,5 +1,6 @@
 # Credit-Card-Financial-Dashboard
 The goal of this project is to analyze credit card customer demographics, transaction behavior, and revenue trends to gain insights into financial performance and customer segmentation. The dashboard provides a comprehensive view of revenue, interest earned, income distribution, customer attributes, and spending patterns.
+
 **Key Insights & Findings**
 **1. Credit Card Customer Report**
 •	Overall Financial Performance:
@@ -14,6 +15,7 @@ The goal of this project is to analyze credit card customer demographics, transa
 •	Revenue Trends:
  o	Revenue fluctuates throughout the year, with visible peaks in certain months.
  o	The revenue trend remains relatively stable across different quarters.
+ 
 **2. Credit Card Transaction Report**
 •	Transaction Overview:
  o	Total Transactions: 656K
@@ -29,6 +31,7 @@ The goal of this project is to analyze credit card customer demographics, transa
 •	Customer Segmentation:
  o	Businessmen contribute the most revenue, followed by white-collar and self-employed professionals.
  o	Graduates account for the largest revenue share, followed by high school and post-graduate customers.
+ 
 **Conclusion & Recommendations**
 •	Target High-Value Customers: Focus on businessmen and high-income groups for premium card offers and tailored promotions.
 •	Encourage Digital Transactions: Since swipe transactions dominate, promotions for online transactions could help increase engagement in digital banking.
