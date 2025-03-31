@@ -4,31 +4,39 @@ The goal of this project is to analyze credit card customer demographics, transa
 **Key Insights & Findings**
 
 **1. Credit Card Customer Report**
+
 •	Overall Financial Performance:
 o	Total Revenue: $55M
 o	Total Interest Earned: $8M
 o	Total Income: $576M
+
 •	Customer Demographics & Segmentation:
 o	Male customers generate $30.22M, while female customers generate $25.09M.
 o	Businessmen and white-collar employees contribute the highest revenue.
 o	Higher-income groups generate significantly more revenue than middle and low-income groups.
 o	Graduates contribute the most revenue, followed by high school and post-graduate customers.
+
 •	Revenue Trends:
 o	Revenue fluctuates throughout the year, with visible peaks in certain months.
 o	The revenue trend remains relatively stable across different quarters.
 
 **2. Credit Card Transaction Report**
+
 •	Transaction Overview:
 o	Total Transactions: 656K
 o	Total Transaction Amount: $45M
 o	Total Interest Earned: $8M
+
 •	Revenue by Card Category:
 o	Blue cards generate the highest revenue ($46M), followed by silver, gold, and platinum.
+
 •	Transaction Trends:
 o	Q3 had the highest revenue, followed by Q4 and Q2, with Q1 being the lowest.
+
 •	Spending Behavior & Expenditure Types:
 o	The highest spending categories include Bills ($14M), Entertainment ($10M), Fuel ($10M), and Grocery ($9M).
 o	The majority of transactions are done through Swipe (35M transactions), followed by Chip (17M), and Online (3M).
+
 •	Customer Segmentation:
 o	Businessmen contribute the most revenue, followed by white-collar and self-employed professionals.
 o	Graduates account for the largest revenue share, followed by high school and post-graduate customers.
