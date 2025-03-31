@@ -4,6 +4,6 @@ The goal of this project is to analyze credit card customer demographics, transa
 **Key Insights & Findings**
 1. Credit Card Customer Report
   •	Overall Financial Performance:
-       o	Total Revenue: $55M
-       o	Total Interest Earned: $8M
-       o	Total Income: $576M
+       	Total Revenue: $55M
+       	Total Interest Earned: $8M
+       	Total Income: $576M
